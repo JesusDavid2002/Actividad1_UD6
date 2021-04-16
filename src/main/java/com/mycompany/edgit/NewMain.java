@@ -12,6 +12,8 @@ public class NewMain {
         
         System.out.println("Hola Mundo");
         System.out.println("Esta es la parte 4 de la actividad 1 de la unidad 6");
+        System.out.println("Son las 20, una hora menos en canarias.");
+        System.out.println("Anoche ganó el Real Madrid al Liverpool, espectacular partido.");
     }
     
 }
